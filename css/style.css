@@ -1,0 +1,957 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /*font-family: Arial, Helvetica, 'Roboto Condensed', sans-serif;*/
+    font-family: 'Just Another Hand', cursive;
+    font-size: 14px;
+    line-height: 1.5em;
+    background: white;
+    color: black;
+    background: url("../images/brickwall.jpg");
+    cursor: url("../images/Paw.cur"),auto;
+}
+
+/* Header
+ --------------------------------*/
+.current {
+    position: relative;
+    display: inline-block;
+    font-family: Roboto, Arial, sans-serif;
+    margin: 3.5em 0 0;
+}
+.dropbtn {
+    color: black;
+    font-size: 2em;
+    border: none;
+    cursor: pointer;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border-radius: 3px;
+    background: rgba(200,200,216,0.7);
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0 0,0.2);
+    z-index: 1;
+}
+.dropdown-content a {
+    color: black;
+    font-size: 1.13em;
+    display: block;
+}
+.dropdown-content:hover {
+    background: #C4C3CF ;
+    transition: 0.5s;
+}
+.current:hover .dropdown-content {
+    display: block;
+}
+.current:hover .dropbtn {
+    background-color: #C4C3CF;
+    transition: 1s;
+}
+.home_title {
+    font-family: Algerian, sans-serif;
+    font-size: 4.5em;
+    margin: 0.5em 0.5em 0;
+}
+.homepage-logo img {
+    width: 70px;
+    height: 70px;
+    position: relative;
+    padding: 1em;
+    margin: 1em 1em 0;
+}
+.back_arrow img {
+    width: 60px;
+    height: 60px;
+    position: relative;
+    padding: 1.1em 1.3em;
+    margin: 1em 1em 0;
+}
+#main-menu ul {
+    text-align: center;
+}
+.hp_main_menu > ul {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(140,140,160,0.6);
+    z-index: 1;
+}
+#main-menu li {
+    list-style: none;
+    padding: 0 0.5em;
+}
+#main-menu a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding: 1em 2em;
+    margin: 0 auto;
+    text-transform: uppercase;
+    border-radius: 3px;
+    text-shadow: rgba(0,0,0,0.5) 0 1px 0;
+}
+#main-menu a:hover {
+    background: lavender;
+    transition: 1s;
+}
+
+
+/* Content
+ ------------------------------*/
+
+/* Homepage */
+#story > img {
+    width: 1350px;
+    height: 650px;
+    padding-top: 180px;
+}
+#story #pawprints {
+    padding-left: 10px;
+    width: 60px;
+    height: 60px;
+}
+#story h1 {
+    text-align: center;
+    margin: 1.5em;
+    font-size: 2em;
+}
+#story p {
+    margin: 30px 80px;
+    padding: 1em;
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+#main-story {
+    background-image: url("../images/gr.png" );
+}
+#main-story p:nth-child(5) {
+    margin-bottom: 0;
+    padding-bottom: 4em;
+}
+
+#back-to-top-btn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 26px;
+    width: 50px;
+    height: 50px;
+    background-color: whitesmoke;
+    color: black;
+    cursor: pointer;
+    outline: none;
+    border: 2px solid whitesmoke;
+    border-radius: 50%;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
+}
+#back-to-top-btn:hover, #back-to-top-btn:focus {
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+}
+
+.btnEntrance {
+    animation-duration: 0.5s;
+    animation-fill-mode: both;
+    animation-name: btnEntrance;
+}
+/* fadeInUp */
+@keyframes btnEntrance {
+    from {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+    to {
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+    }
+}
+.btnExit {
+    animation-duration: 0.25s;
+    animation-fill-mode: both;
+    animation-name: btnExit;
+}
+/* fadeOutDown */
+@keyframes btnExit {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+}
+
+
+
+
+
+
+
+
+/* Dog Breeds Page */
+.breeds_title {
+    font-family: Algerian, sans-serif;
+    font-size: 3.2em;
+    margin-top: 0.5em;
+}
+.pics {;
+    list-style: none;
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+    vertical-align: top;
+}
+.pics :hover {
+    box-shadow:  0 0 10px 6px rgba(0,0,0,.5);
+    background: inherit;
+    transition: 1s;
+}
+.content {
+    width:80%;
+    margin: 30px 300px;
+    padding: 10px;
+    overflow: hidden;
+}
+.img-wrap {
+    padding: 10px;
+    background-color: #E8E3F2;
+    border: 1px solid #ccc;
+}
+.img-box {
+    height: 230px;
+    overflow: hidden;
+}
+.img-box img {
+    position: relative;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.caption {
+    font-family: Arial sans-serif;
+    font-size: 25px;
+    font-style: italic;
+}
+
+
+/* Labrador Retriever Page */
+#story {
+    flex-wrap: wrap;
+}
+#breadcrumb {
+    margin-left: 50px;
+}
+#breadcrumb li {
+    display: inline-block;
+    color: #7A8B99;
+}
+#breadcrumb a {
+    color: #7A8B99;
+}
+#labrador1 img {
+    padding: 20px;
+    margin-left: 60px;
+    width: 450px;
+    height: 300px;
+}
+
+/* Staffordshire Bull Terrier Page */
+#story {
+    flex-wrap: wrap;
+}
+#sbt img {
+    padding: 20px;
+    margin-right: 60px;
+    width: 400px;
+    height: 500px;
+}
+
+/* French Bulldog Terrier Page */
+#story {
+    flex-wrap: wrap;
+}
+#fb img {
+    padding: 20px;
+    margin: 0 0 60px 60px;
+    width: 450px;
+    height: 290px;
+}
+
+/* German Shepherd Page */
+#story {
+    flex-wrap: wrap;
+}
+#gs img {
+    padding: 20px;
+    margin: 0 0 60px 60px;
+    width: 450px;
+    height: 300px;
+}
+
+/* Border Collie Page */
+#story {
+    flex-wrap: wrap;
+}
+#bc img {
+    padding: 20px;
+    margin-right: 60px;
+    width: 450px;
+    height: 300px;
+}
+
+/* Golden Retriever Page */
+#story {
+    flex-wrap: wrap;
+}
+#gr img {
+    padding: 20px;
+    margin-right: 60px;
+    width: 450px;
+    height: 300px;
+}
+
+/* Cavalier King Charles Spaniel Page */
+#story {
+    flex-wrap: wrap;
+}
+#ckcs img {
+    padding: 20px;
+    margin-left: 60px;
+    width: 450px;
+    height: 300px;
+}
+
+/* American Staffordshire Terrier Page */
+#story {
+    flex-wrap: wrap;
+}
+#ast img {
+    padding: 20px;
+    margin-left: 60px;
+    width: 360px;
+    height: 480px;
+}
+
+/* Miniature Schnauzer Page */
+#story {
+    flex-wrap: wrap;
+}
+#ms img {
+    padding: 20px;
+    margin: 0 60px 60px 0;
+    width: 360px;
+    height: 480px;
+}
+
+/* Rottweiler Page */
+#story {
+    flex-wrap: wrap;
+}
+#rottweiler img {
+    padding: 20px;
+    margin-left: 60px;
+    width: 560px;
+    height: 400px;
+}
+
+
+/* Dog Care Page */
+#sub_menu {
+    align-content: space-between;
+    background: #9BA0BC;
+    position: relative;
+    width: 100%;
+}
+#sub_menu_feed .feed {
+    background: lavender;
+}
+#sub_menu_vaccine .vaccination {
+    background: lavender;
+}
+#sub_menu_grooming .grooming {
+    background: lavender;
+}
+
+/* Dog Care Feed Page */
+#feed h1 {
+    color: darkslategray;
+    text-align: center;
+    margin-top: 80px;
+    font-size: 40px;
+}
+#feed img {
+    margin:0 40px 0 80px;
+    border-radius: 20%;
+}
+#overview {
+    margin: 50px 50px 60px 50px !important;
+    color: darkslategray;
+    font-family: 'Just Another Hand', cursive;
+    font-size: 22px !important;
+    line-height: 1.5em;
+}
+#feed h2 {
+    margin-left: 60px;
+    padding-top: 50px;
+    color: darkslategray;
+}
+#feed p {
+    margin: 40px 60px 0;
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+#feed p:last-child {
+    padding-bottom: 40px;
+}
+#feed ul {
+    margin: 20px 150px;
+    font-size: 1.1em;
+    line-height: 1.5em;
+}
+
+/* Dog Care Vaccination Page */
+#vaccination h1 {
+    text-align: center;
+    margin-top: 40px;
+    color: darkslateblue;
+    font-family: Andalus, sans-serif;
+    font-size: 55px;
+}
+@keyframes vaccine {
+    0% {
+        left: 0;
+    }
+    50% {
+        left: 63%;
+        animation-direction: reverse;
+    }
+    100% {
+        left: 0;
+    }
+}
+.vaccine_pic img {
+    width: 500px;
+    margin-top: 30px;
+    position: relative;
+    border: 4px solid lightsteelblue;
+    border-radius: 50%;
+    animation-timing-function: linear;
+    animation-name: vaccine;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+}
+#vaccination p {
+    margin: 40px 60px;
+    padding: 1em;
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+.sub {
+    margin: 10px 60px !important;
+}
+#vaccination h2 {
+    margin-left: 60px;
+    color: darkslateblue;
+    font-family: Andalus, sans-serif;
+    font-size: 2em;
+    font-weight: bolder;
+}
+#vaccination ul {
+    margin: 0 150px 40px;
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+
+/* Dog Care Grooming Page */
+#grooming h1 {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-size: 40px;
+
+}
+#grooming ol {
+    margin-left: 40px;
+    padding: 0 20px;
+    list-style: none;
+}
+#grooming h2 {
+    padding-top: 30px;
+    color: darkslategray;
+}
+#grooming p {
+    margin: 40px 60px 0;
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+#grooming p:last-child {
+    margin-bottom: 40px;
+}
+#grooming-basics ul {
+    margin: 20px 100px 20px;
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+#img1 {
+    width: 200px;
+    height: 150px;
+    border-radius: 40%;
+    margin-right: 80px;
+}
+#img2 {
+    width: 200px;
+    height: 150px;
+    border-radius: 40%;
+    margin-left: 30px;
+    padding: 20px;
+}
+#img3 {
+    width: 200px;
+    height: 150px;
+    border-radius: 40%;
+    margin-right: 80px;
+    padding: 20px;
+}
+#img4 {
+    width: 200px;
+    height: 150px;
+    border-radius: 40%;
+    margin: 10px 0 0 30px;
+    padding: 20px;
+}
+#img5 {
+    width: 180px;
+    height: 180px;
+    border-radius: 40%;
+    margin-right: 80px;
+    padding: 20px;
+}
+
+
+/* Dog Behaviours Page */
+#sub_menu_facial .facial {
+    background: lavender;
+    border-radius: 20px;
+    border-bottom: 10px solid darkslateblue;
+    margin: 0 100px ;
+    font-size: 1.5em;
+}
+#sub_menu_body .body {
+    background: lavender;
+    border-radius: 20px;
+    border-bottom: 10px solid darkslateblue;
+    margin: 0 100px ;
+    font-size: 1.5em;
+}
+
+/* Dog Behaviours Facial Page */
+#section1 {
+    margin-top: 20px;
+    margin-left: 380px;
+}
+#nav_list {
+    padding: 5em 8em 3em;
+    font-size: 1.5em;
+    line-height: 2em;
+}
+#dogs {
+    width: 700px;
+    height: 300px;
+    padding: 30px 100px;
+    border-radius: 200px;
+}
+#facial h2 {
+    margin-left: 40px;
+    padding-top: 40px;
+    font-size: 2em;
+}
+#facial h3 {
+    margin-left: 40px;
+    padding-top: 60px;
+}
+#facial p {
+    margin: 40px 80px 0;
+    padding-right: 200px;
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+#facial_article img {
+    padding: 10px 80px 0 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 50px;
+}
+
+/* Dog Behaviours Body Page */
+#section2 {
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 380px;
+}
+#dogs1 {
+    width: 600px;
+    height: 400px;
+    margin-right: 100px;
+    padding: 30px 80px;
+    border-radius: 200px;
+}
+#body h2 {
+    margin-left: 40px;
+    margin-top: 20px;
+    padding: 20px 0;
+    font-size: 2em;
+}
+#body h3 {
+    margin-left: 40px;
+    padding-top: 20px;
+}
+#body p {
+    margin: 20px 20px 20px 60px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+#body_article img {
+    margin-right: 80px;
+    border-radius: 20px;
+}
+
+
+/* Dod Training Page */
+#sub_menu_method .method {
+    background: lavender;
+    border-radius: 20px;
+    border-bottom: 10px solid darkslateblue;
+    margin: 0 100px ;
+    font-size: 1.5em;
+}
+#sub_menu_device .device {
+    background: lavender;
+    border-radius: 20px;
+    border-bottom: 10px solid darkslateblue;
+    margin: 0 100px ;
+    font-size: 1.5em;
+}
+
+/* Dod Training M&G Page */
+.dog_training_title {
+    font-family: Algerian, sans-serif;
+    font-size: 4.5em;
+    margin-top: 0.5em;
+}
+#G_M h1 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+#G_M img {
+    margin: 80px 150px;
+    border-radius: 20px;
+}
+#G_M_article h2 {
+    margin: 50px 50px 20px;
+    font-size: 30px;
+}
+#G_M_article p {
+    margin: 40px 80px;
+    font-size: 20px;
+    line-height: 1.5;
+}
+#G_M_article strong {
+    color: darkslategrey;
+}
+
+/* Dod Training Tools Page */
+.dog_device_title {
+    font-family: Algerian, sans-serif;
+    font-size: 4.5em;
+    margin-top: 0.5em;
+}
+#tools h1 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+#tools img {
+    margin: 80px 150px;
+    border-radius: 20px;
+}
+#overview p {
+    padding: 0 100px;
+}
+#overview #nav_list {
+    font-size: 24px;
+}
+#tools_article h2 {
+    margin: 50px 50px 20px;
+}
+#tools_article p {
+    margin: 20px 80px;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+
+
+/* Community Page */
+#sub_menu_amusement .community_amusement {
+    background: lavender;
+    border-radius: 20px;
+    border-bottom: 10px solid darkslateblue;
+    margin: 0 100px ;
+    font-size: 1.5em;
+}
+#sub_menu_event .community_event {
+    background: lavender;
+    border-radius: 20px;
+    border-bottom: 10px solid darkslateblue;
+    margin: 0 100px ;
+    font-size: 1.5em;
+}
+
+/* Community Amusement Page */
+fieldset {
+    margin: 40px;
+    padding: 20px;
+    border: 0;
+    border-radius: 10px;
+    background: rgba(200,200,216,0.4);
+    display: block;
+}
+legend {
+    text-transform: uppercase;
+    font-size: 1em;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding: 1em 1em;
+    margin: 0 1em;
+    border-radius: 10px;
+    color: black;
+    background: linear-gradient(165deg, #9BA0BC 10%,#E8E3F2 50%, #7A8B99 90%);
+}
+.amusement ul {
+    width: 100%;
+    margin: 10px auto;
+    font-size: 0;
+}
+.amusement #ul1 li {
+    list-style: none;
+    display: inline-block;
+    width: 33.3%;
+    height: 500px;
+    text-align: center;
+    overflow: hidden;
+}
+.amusement #ul2 li {
+    list-style: none;
+    display: inline-block;
+    width: 33.3%;
+    height: 300px;
+    text-align: center;
+    overflow: hidden;
+}
+.amusement img {
+    border-radius: 10%;
+}
+.amusement p {
+    font-size: 1.5em;
+    text-align: right;
+    padding: 0.5em 1em;
+}
+.amusement iframe {
+    padding: 20px;
+}
+
+/* Community Event Page */
+.event img {
+    width: 100%;
+}
+.li_img {
+    width: 1000px;
+    float: left;
+    list-style: none;
+}
+.ul_img {
+    width: 4000px;
+    padding: auto;
+    margin-top: auto;
+    transition: all 2s;
+}
+.main_div {
+    background: inherit;
+    width: 1000px;
+    overflow: hidden;
+    position: relative;
+    margin: auto;
+    top: 50px;
+}
+.arrows {
+    z-index: 9999;
+    position: absolute;
+    padding-top: 250px;
+    width: 1000px;
+}
+.arrows span {
+    font-size: 3em;
+    color: lavender;
+}
+.arrows span:hover {
+    /*变小手*/
+    cursor: pointer;
+    background-color: rgba(192, 192, 192, 0.29);
+}
+.div_btn {
+    float: left;
+    border-radius: 100px;
+    background-color: lavender;
+    width: 60px;
+    height: 10px;
+    margin-right: 15px;
+    margin-top: 80px;
+}
+.div_btn:hover {
+    background-color: lightsteelblue;
+}
+.event .background {
+    position: absolute;
+    top: 330px;
+    z-index: -1;
+    width: 100%;
+    height:600px;
+    background: rgba(91,89,95,0.2);
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+}
+.event article {
+    margin-bottom: 200px;
+    display: block;
+    text-align: center;
+}
+.event h1 {
+    padding-bottom: 50px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 3em;
+    font-weight: bold;
+}
+.event p {
+    padding-bottom: 10px;
+}
+
+.event fieldset {
+    margin-top: 180px;
+    margin-bottom: 80px;
+    max-width: 500px;
+    margin-left: 400px;
+    padding-left: 20px;
+}
+.event fieldset input {
+    margin: 10px;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
+.event fieldset button {
+    font-weight: bold;
+    font-size: 20px;
+    padding: 0.5em 1em;
+    color: white;
+    border-radius: 10px;
+    background: linear-gradient(165deg, #9BA0BC 10%,#E8E3F2 50%, #7A8B99 90%);
+    cursor: pointer;
+    float: right;
+}
+.event label.error {
+    color: red;
+}
+.event input[type = text].error, input[type = number].error {
+    border-color: red;
+}
+
+
+
+
+
+
+
+
+/*Footer
+-----------------------------*/
+#page-footer {
+    padding: 2em;
+    margin: 0;
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    background: lightsteelblue;;
+}
+#secondary-menu li {
+    list-style: none;
+    padding: 0.5em;
+}
+#secondary-menu a {
+    color: black;
+    margin: 0.5em;
+}
+#secondary-menu img {
+    padding: 1em;
+    border-radius: 40px;
+}
+
+
+/*References
+-----------------------------*/
+.reference {
+    margin: 60px 80px;
+}
+.reference h1 {
+    font-weight: bold;
+    font-size: 50px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.reference li {
+    padding: 10px;
+}
+.reference img {
+    width: 70px;
+    height: 70px;
+    float: right;
+    margin-right: 40px;
+}
+
+
+
+
+
+@media only screen and (min-width: 1000px) {
+
+    body {
+        font-size: 16px;
+        line-height: 1.5em;
+    }
+
+    /* Main Menu */
+    #main-menu ul {
+        display: flex;
+        justify-content: center;
+        padding: 0;
+        text-align: center;
+    }
+
+    #main-menu li {
+        padding: 0.75em 0.5em;
+    }
+}

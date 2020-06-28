@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="faa391d8-e7c3-4534-8ea0-374828cacdca" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/homepage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>form-first-name</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/dog_breeds.html" />
+        <option value="$PROJECT_DIR$/staffordshire_bull_terrier.html" />
+        <option value="$PROJECT_DIR$/labrador.html" />
+        <option value="$PROJECT_DIR$/french_bulldog.html" />
+        <option value="$PROJECT_DIR$/german_shepherd.html" />
+        <option value="$PROJECT_DIR$/border_collie.html" />
+        <option value="$PROJECT_DIR$/golden_retriever.html" />
+        <option value="$PROJECT_DIR$/miniature_schnauzer.html" />
+        <option value="$PROJECT_DIR$/american_staffordshire_terrier.html" />
+        <option value="$PROJECT_DIR$/cavalier_king_charles_spaniel.html" />
+        <option value="$PROJECT_DIR$/rottweiler.html" />
+        <option value="$PROJECT_DIR$/dog_care.html" />
+        <option value="$PROJECT_DIR$/dog_care_feed.html" />
+        <option value="$PROJECT_DIR$/dog_care_vaccination.html" />
+        <option value="$PROJECT_DIR$/dog_care_grooming.html" />
+        <option value="$PROJECT_DIR$/dog_behaviours.html" />
+        <option value="$PROJECT_DIR$/homepage.html" />
+        <option value="$PROJECT_DIR$/dog_behaviours_facial.html" />
+        <option value="$PROJECT_DIR$/dog_behaviours_body.html" />
+        <option value="$PROJECT_DIR$/html/dog_training.html" />
+        <option value="$PROJECT_DIR$/html/community.html" />
+        <option value="$PROJECT_DIR$/../prac/Exercise12/Exercise/js/script.js" />
+        <option value="$PROJECT_DIR$/../prac/Exercise12/Exercise/index.html" />
+        <option value="$PROJECT_DIR$/script.js" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/html/community_amusement.html" />
+        <option value="$PROJECT_DIR$/html/dog_breeds.html" />
+        <option value="$PROJECT_DIR$/html/homepage.html" />
+        <option value="$PROJECT_DIR$/html/dog_care_feed.html" />
+        <option value="$PROJECT_DIR$/html/dog_care_grooming.html" />
+        <option value="$PROJECT_DIR$/html/dog_care_vaccination.html" />
+        <option value="$PROJECT_DIR$/html/dog_training_device.html" />
+        <option value="$PROJECT_DIR$/html/dog_behaviours_body.html" />
+        <option value="$PROJECT_DIR$/html/dog_behaviours_facial.html" />
+        <option value="$PROJECT_DIR$/html/dog_training_tool.html" />
+        <option value="$PROJECT_DIR$/html/labrador.html" />
+        <option value="$PROJECT_DIR$/html/staffordshire_bull_terrier.html" />
+        <option value="$PROJECT_DIR$/html/french_bulldog.html" />
+        <option value="$PROJECT_DIR$/html/german_shepherd.html" />
+        <option value="$PROJECT_DIR$/html/border_collie.html" />
+        <option value="$PROJECT_DIR$/html/golden_retriever.html" />
+        <option value="$PROJECT_DIR$/html/cavalier_king_charles_spaniel.html" />
+        <option value="$PROJECT_DIR$/html/american_staffordshire_terrier.html" />
+        <option value="$PROJECT_DIR$/html/miniature_schnauzer.html" />
+        <option value="$PROJECT_DIR$/html/rottweiler.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/html/dog_training_method.html" />
+        <option value="$PROJECT_DIR$/html/reference.html" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/html/community_event.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="706" />
+    <option name="height" value="767" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web_implementation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_implementation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web_implementation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_implementation" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web_implementation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_implementation" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559952956502" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faa391d8-e7c3-4534-8ea0-374828cacdca" name="Default Changelist" comment="" />
+      <created>1555156972271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555156972271</updated>
+      <workItem from="1555156973788" duration="5151000" />
+      <workItem from="1555629863159" duration="9439000" />
+      <workItem from="1556321158932" duration="350000" />
+      <workItem from="1556513457629" duration="20020000" />
+      <workItem from="1556593084033" duration="18494000" />
+      <workItem from="1556714296006" duration="140661000" />
+      <workItem from="1557833207452" duration="2288000" />
+      <workItem from="1558003249472" duration="48541000" />
+      <workItem from="1559023881006" duration="75143000" />
+      <workItem from="1559880366843" duration="3724000" />
+      <workItem from="1559978688228" duration="3063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="326874000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="706" height="767" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.42812982" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/border_collie.html" />
+    <entry file="file://$PROJECT_DIR$/golden_retriever.html" />
+    <entry file="file://$PROJECT_DIR$/american_staffordshire_terrier.html" />
+    <entry file="file://$PROJECT_DIR$/cavalier_king_charles_spaniel.html" />
+    <entry file="file://$PROJECT_DIR$/reference.html" />
+    <entry file="file://$PROJECT_DIR$/miniature_schnauzer.html" />
+    <entry file="file://$PROJECT_DIR$/rottweiler.html" />
+    <entry file="file://$PROJECT_DIR$/../prac/Week 6 Exercise/Exercise Solution/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4997">
+          <caret line="263" column="14" selection-start-line="263" selection-start-column="14" selection-end-line="263" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../prac/Week 6 Exercise/Exercise Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../prac/Week 7 Exercise/Week 7 Exercise/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="45" column="33" selection-start-line="45" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../prac/Week 7 Exercise/Week 7 Exercise/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dog_care_grooming.html" />
+    <entry file="file://$PROJECT_DIR$/homepage.html" />
+    <entry file="file://$PROJECT_DIR$/dog_care_vaccination.html" />
+    <entry file="file://$PROJECT_DIR$/dog_care_feed.html" />
+    <entry file="file://$PROJECT_DIR$/dog_behaviours_facial.html" />
+    <entry file="file://$PROJECT_DIR$/dog_behaviours_body.html" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4697" column="4" selection-start-line="4697" selection-start-column="4" selection-end-line="4697" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../prac/Exercise12/Exercise/style.css" />
+    <entry file="file://$PROJECT_DIR$/../prac/Exercise12/Exercise/index.html" />
+    <entry file="file://$PROJECT_DIR$/../prac/Exercise12/Exercise/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/script.js" />
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/html/community_amusement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/dog_breeds.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../prac/Week 12 Exercise/Exercise Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3211">
+          <caret line="169" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../prac/Week 12 Exercise/Exercise Solution/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-310">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../prac/Week 12 Exercise/Exercise Solution/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="4" column="29" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/dog_care_grooming.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/dog_care_vaccination.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="130" column="9" lean-forward="true" selection-start-line="130" selection-start-column="9" selection-end-line="130" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/dog_behaviours_body.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="56" column="72" selection-start-line="56" selection-start-column="72" selection-end-line="56" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/dog_care_feed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/labrador.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/french_bulldog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/german_shepherd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/border_collie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/golden_retriever.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/cavalier_king_charles_spaniel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/american_staffordshire_terrier.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="20" column="80" lean-forward="true" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/miniature_schnauzer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/rottweiler.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/dog_behaviours_facial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="118" lean-forward="true" selection-start-line="7" selection-start-column="118" selection-end-line="7" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/dog_training_tool.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="60" column="51" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/dog_training_method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="151" column="61" lean-forward="true" selection-start-line="151" selection-start-column="61" selection-end-line="151" selection-end-column="61" />
+          <folding>
+            <element signature="e#2831#2837#0" expanded="true" />
+            <element signature="e#2895#2901#0" expanded="true" />
+            <element signature="e#3010#3016#0" expanded="true" />
+            <element signature="e#3658#3664#0" expanded="true" />
+            <element signature="e#3685#3691#0" expanded="true" />
+            <element signature="e#3783#3789#0" expanded="true" />
+            <element signature="e#4321#4327#0" expanded="true" />
+            <element signature="e#4408#4414#0" expanded="true" />
+            <element signature="e#4539#4545#0" expanded="true" />
+            <element signature="e#4656#4662#0" expanded="true" />
+            <element signature="e#5251#5257#0" expanded="true" />
+            <element signature="e#5306#5312#0" expanded="true" />
+            <element signature="e#5396#5402#0" expanded="true" />
+            <element signature="e#5495#5501#0" expanded="true" />
+            <element signature="e#5593#5599#0" expanded="true" />
+            <element signature="e#6350#6356#0" expanded="true" />
+            <element signature="e#6404#6410#0" expanded="true" />
+            <element signature="e#6500#6506#0" expanded="true" />
+            <element signature="e#6612#6618#0" expanded="true" />
+            <element signature="e#6699#6705#0" expanded="true" />
+            <element signature="e#6804#6810#0" expanded="true" />
+            <element signature="e#7299#7305#0" expanded="true" />
+            <element signature="e#7411#7417#0" expanded="true" />
+            <element signature="e#7603#7609#0" expanded="true" />
+            <element signature="e#7909#7915#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_implementation.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/reference.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="30" column="91" selection-start-line="30" selection-start-column="91" selection-end-line="30" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/staffordshire_bull_terrier.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="657" column="1" selection-start-line="657" selection-start-column="1" selection-end-line="657" selection-end-column="1" />
+          <folding>
+            <element signature="e#2#36#0" />
+            <element signature="e#43#341#0" />
+            <element signature="e#343#388#0" />
+            <element signature="e#398#519#0" />
+            <element signature="e#529#609#0" />
+            <element signature="e#628#825#0" />
+            <element signature="e#846#910#0" />
+            <element signature="e#935#986#0" />
+            <element signature="e#1020#1043#0" />
+            <element signature="e#1068#1122#0" />
+            <element signature="e#1135#1226#0" />
+            <element signature="e#1246#1349#0" />
+            <element signature="e#1366#1477#0" />
+            <element signature="e#1492#1519#0" />
+            <element signature="e#1539#1660#0" />
+            <element signature="e#1675#1722#0" />
+            <element signature="e#1736#1943#0" />
+            <element signature="e#1963#2012#0" />
+            <element signature="e#2015#2059#0" />
+            <element signature="e#2089#2154#0" />
+            <element signature="e#2173#2235#0" />
+            <element signature="e#2246#2312#0" />
+            <element signature="e#2322#2412#0" />
+            <element signature="e#2425#2476#0" />
+            <element signature="e#2504#2554#0" />
+            <element signature="e#2573#2933#0" />
+            <element signature="e#2981#3060#0" />
+            <element signature="e#3075#3172#0" />
+            <element signature="e#3188#3371#0" />
+            <element signature="e#3222#3293#0" />
+            <element signature="e#3301#3369#0" />
+            <element signature="e#3381#3475#0" />
+            <element signature="e#3494#3632#0" />
+            <element signature="e#3524#3551#0" />
+            <element signature="e#3559#3630#0" />
+            <element signature="e#3677#3764#0" />
+            <element signature="e#3771#3889#0" />
+            <element signature="e#3903#3997#0" />
+            <element signature="e#4007#4090#0" />
+            <element signature="e#4101#4182#0" />
+            <element signature="e#4192#4236#0" />
+            <element signature="e#4250#4341#0" />
+            <element signature="e#4351#4434#0" />
+            <element signature="e#4474#4498#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/community_event.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1387">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
